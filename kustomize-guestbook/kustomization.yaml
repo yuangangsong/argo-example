@@ -9,4 +9,3 @@ kind: Kustomization
 commonLabels:
   owner: yuangang
   app: guestbook
-  date: 2020-April-08
